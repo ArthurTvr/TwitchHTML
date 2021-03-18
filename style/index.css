@@ -136,15 +136,7 @@ text-align: center;
 }
 
 body{
-<<<<<<< HEAD
-    background-color: red;
-=======
-<<<<<<< HEAD
-    background-color: black;
-=======
-    background-color: blue;
->>>>>>> 939e097f351edc579bc72b0b885960a60eb9867a
->>>>>>> d9f3b9bb1e45466bc0bd7b02e3e5f7e8def2d4d0
+    background-color: rgb(48, 48, 48);
 }
 .recommended-channel-container{
     display: flex;
